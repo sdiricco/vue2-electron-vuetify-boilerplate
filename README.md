@@ -1,1 +1,1 @@
-# vue2-electron-vuetify-boilerplate
+# electron-vue-ts
